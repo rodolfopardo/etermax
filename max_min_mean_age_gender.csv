@@ -1,0 +1,4 @@
+,max,max,max,min,min,min,mean,mean,mean
+gender,female,male,unknown,female,male,unknown,female,male,unknown
+max_age_range,20,20,20,17,13,17,18.854083987078912,18.922709074733095,18.751445086705203
+min_age_range,21,21,21,13,13,13,16.09377018920166,16.211076512455517,15.953757225433526
